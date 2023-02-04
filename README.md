@@ -1,1 +1,1 @@
-# PracaMagisterska
+# Praca Magisterska
