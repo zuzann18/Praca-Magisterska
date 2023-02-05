@@ -23,7 +23,7 @@ III.Matryca 16 x 16
 IV.Pismo odręczne	
 Rozdział IV. Korzyści z rozpoznawania pisma ręcznego	
 
-matryce znaków bedą robioen w gimpie 8 pikseli x8 pikseli itd.  
+matryce znaków bedą robione w gimpie 8 pikseli x8 pikseli itd.  
 
 
 
